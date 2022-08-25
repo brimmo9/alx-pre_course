@@ -1,3 +1,4 @@
+touch up_to_date
 git add .
 git push
 git checkout <branchname>
